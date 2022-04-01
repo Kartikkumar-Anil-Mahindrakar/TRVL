@@ -1,9 +1,9 @@
 import React from 'react';
 import '../../App.css';
 import Cards from '../Cards';
-import Footer from '../Footer';
+// import Footer from '../Footer';
 import HeroSection from '../HeroSection';
-const MyContext = React.createContext('btn btn-primary');
+// const MyContext = React.createContext('btn btn-primary');
 
 function Home() {
   return (
